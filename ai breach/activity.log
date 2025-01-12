@@ -1,0 +1,63 @@
+2025-01-11 21:24:48,193 - File not found: example.txt
+2025-01-11 21:24:48,250 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-11 21:24:48,250 - [33mPress CTRL+C to quit[0m
+2025-01-11 21:24:48,253 -  * Restarting with stat
+2025-01-11 21:24:50,835 - File not found: example.txt
+2025-01-11 21:24:50,862 -  * Debugger is active!
+2025-01-11 21:24:50,868 -  * Debugger PIN: 827-251-887
+2025-01-11 21:25:14,083 - 127.0.0.1 - - [11/Jan/2025 21:25:14] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-11 21:25:14,126 - 127.0.0.1 - - [11/Jan/2025 21:25:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-11 21:25:39,307 - 127.0.0.1 - - [11/Jan/2025 21:25:39] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-11 21:28:55,115 - 127.0.0.1 - - [11/Jan/2025 21:28:55] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-11 21:30:48,643 - File not found: example.txt
+2025-01-11 21:30:48,694 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-11 21:30:48,694 - [33mPress CTRL+C to quit[0m
+2025-01-11 21:30:48,696 -  * Restarting with stat
+2025-01-11 21:30:51,177 - File not found: example.txt
+2025-01-11 21:30:51,205 -  * Debugger is active!
+2025-01-11 21:30:51,209 -  * Debugger PIN: 827-251-887
+2025-01-11 21:33:18,408 - 127.0.0.1 - - [11/Jan/2025 21:33:18] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-11 21:33:31,967 - 127.0.0.1 - - [11/Jan/2025 21:33:31] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-11 21:33:32,825 - 127.0.0.1 - - [11/Jan/2025 21:33:32] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-11 22:20:26,550 - 127.0.0.1 - - [11/Jan/2025 22:20:26] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-11 22:20:26,637 - 127.0.0.1 - - [11/Jan/2025 22:20:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-12 10:12:46,265 - File not found: example.txt
+2025-01-12 10:12:46,293 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 10:12:46,293 - [33mPress CTRL+C to quit[0m
+2025-01-12 10:12:46,295 -  * Restarting with stat
+2025-01-12 10:12:47,574 - File not found: example.txt
+2025-01-12 10:12:47,589 -  * Debugger is active!
+2025-01-12 10:12:47,592 -  * Debugger PIN: 827-251-887
+2025-01-12 10:17:44,506 - Failed to send email: [Errno 11001] getaddrinfo failed
+2025-01-12 10:17:44,506 - Blockchain log: {'ip': '192.168.1.5', 'timestamp': '2025-01-12T10:45:00Z'}
+2025-01-12 10:17:44,506 - 127.0.0.1 - - [12/Jan/2025 10:17:44] "POST /log_access HTTP/1.1" 200 -
+2025-01-12 10:20:34,586 - 127.0.0.1 - - [12/Jan/2025 10:20:34] "POST /login_attempt HTTP/1.1" 200 -
+2025-01-12 10:21:45,061 - 127.0.0.1 - - [12/Jan/2025 10:21:45] "GET /check_timing HTTP/1.1" 200 -
+2025-01-12 10:23:28,157 - File not found: example.txt
+2025-01-12 10:23:28,157 - 127.0.0.1 - - [12/Jan/2025 10:23:28] "[33mPOST /check_file_integrity HTTP/1.1[0m" 404 -
+2025-01-12 10:26:17,141 -  * Detected change in 'C:\\ai breach\\ai.py', reloading
+2025-01-12 10:26:17,300 -  * Restarting with stat
+2025-01-12 10:26:18,709 -  * Debugger is active!
+2025-01-12 10:26:18,711 -  * Debugger PIN: 827-251-887
+2025-01-12 10:26:23,428 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 10:26:23,428 - [33mPress CTRL+C to quit[0m
+2025-01-12 10:26:23,430 -  * Restarting with stat
+2025-01-12 10:26:24,806 -  * Debugger is active!
+2025-01-12 10:26:24,809 -  * Debugger PIN: 827-251-887
+2025-01-12 10:26:28,890 - 127.0.0.1 - - [12/Jan/2025 10:26:28] "[35m[1mPOST /check_file_integrity HTTP/1.1[0m" 500 -
+2025-01-12 10:27:35,814 -  * Detected change in 'C:\\ai breach\\ai.py', reloading
+2025-01-12 10:27:35,964 -  * Restarting with stat
+2025-01-12 10:27:37,431 -  * Debugger is active!
+2025-01-12 10:27:37,434 -  * Debugger PIN: 827-251-887
+2025-01-12 10:27:43,291 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 10:27:43,291 - [33mPress CTRL+C to quit[0m
+2025-01-12 10:27:43,292 -  * Restarting with stat
+2025-01-12 10:27:44,612 -  * Debugger is active!
+2025-01-12 10:27:44,614 -  * Debugger PIN: 827-251-887
+2025-01-12 10:27:47,127 - 127.0.0.1 - - [12/Jan/2025 10:27:47] "POST /check_file_integrity HTTP/1.1" 200 -
+2025-01-12 10:48:45,147 - 127.0.0.1 - - [12/Jan/2025 10:48:45] "[33mGET / HTTP/1.1[0m" 404 -
